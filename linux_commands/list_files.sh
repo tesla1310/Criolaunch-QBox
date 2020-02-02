@@ -6,6 +6,7 @@
     #    sorted by modification time in reverse order (newest last). 
     #    This command should work irrespective of the current working directory.
     # 2) Execute the script before submission and confirm the output
-ls -ltr
+
+ls -l -ltr ~/workspace/QBox/logs
 
 
