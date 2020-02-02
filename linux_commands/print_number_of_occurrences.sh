@@ -10,3 +10,4 @@
 
 
 
+grep -c  "230 Login successful" ~/workspace/QBox/logs/vsftpd1.log
