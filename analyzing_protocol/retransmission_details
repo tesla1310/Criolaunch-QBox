@@ -1,0 +1,2 @@
+664,666,669,671
+Packets being resent after having been either lost or damaged. Packet Retransmission is identified thanks to their TCP sequence and acknowledgement numbers, as well as checksum values.More the number of Retransmission worse is the network quality.

@@ -1,0 +1,6 @@
+If the file packet transfer is successfull then the acck is incremented and it sends the number of next file that is to be recieved.
+If it's not successfull the ack sends the same number to retransmit the packet.
+
+SYN - (Synchronize) Initiates a connection
+FIN - (Final) Cleanly terminates a connection
+ACK - Acknowledges received data
